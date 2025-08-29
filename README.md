@@ -1,4 +1,4 @@
-# SageMaker - Scikit-Learn Custom Script Project
+# SageMaker - Scikit-Learn 
 
 This repository demonstrates how to build, train, and deploy a machine learning model on **AWS SageMaker** using a custom **Scikit-Learn (SKLearn)** script.  
 It covers the full workflow — from dataset preparation and splitting to training, testing, and deployment.
